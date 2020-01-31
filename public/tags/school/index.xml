@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>school on Hello Friend</title>
+    <link>http://www.lisablevins.com/tags/school/</link>
+    <description>Recent content in school on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 30 Oct 2012 09:54:21 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lisablevins.com/tags/school/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lisa at school</title>
+      <link>http://www.lisablevins.com/2012/10/30/lisa-at-school/</link>
+      <pubDate>Tue, 30 Oct 2012 09:54:21 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2012/10/30/lisa-at-school/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gym Class</title>
+      <link>http://www.lisablevins.com/2009/03/21/gym-class/</link>
+      <pubDate>Sat, 21 Mar 2009 14:17:11 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2009/03/21/gym-class/</guid>
+      <description>Yesterday (Friday) Lisa’s school had an open house where (grand-)parents could come and watch the kids go through the exercises. Jo went and took these pictures.
+[]4</description>
+    </item>
+    
+  </channel>
+</rss>

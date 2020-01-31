@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bull-riding on Hello Friend</title>
+    <link>http://www.lisablevins.com/tags/bull-riding/</link>
+    <description>Recent content in bull-riding on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2012 19:20:47 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lisablevins.com/tags/bull-riding/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lisa’s Bull Ride</title>
+      <link>http://www.lisablevins.com/2012/05/12/lisas-bull-ride/</link>
+      <pubDate>Sat, 12 May 2012 19:20:47 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2012/05/12/lisas-bull-ride/</guid>
+      <description>[youtube http://www.youtube.com/watch?v=pqa_qCW3RxI]</description>
+    </item>
+    
+  </channel>
+</rss>

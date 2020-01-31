@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>friends on Hello Friend</title>
+    <link>http://www.lisablevins.com/categories/friends/</link>
+    <description>Recent content in friends on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Aug 2012 16:23:58 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lisablevins.com/categories/friends/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Fashionistas</title>
+      <link>http://www.lisablevins.com/2012/08/31/the-fashionistas/</link>
+      <pubDate>Fri, 31 Aug 2012 16:23:58 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2012/08/31/the-fashionistas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Another birthday shot</title>
+      <link>http://www.lisablevins.com/2012/08/31/another-birthday-shot/</link>
+      <pubDate>Fri, 31 Aug 2012 15:34:30 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2012/08/31/another-birthday-shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>9th Birthday</title>
+      <link>http://www.lisablevins.com/2012/08/31/9th-birthday/</link>
+      <pubDate>Fri, 31 Aug 2012 15:03:32 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2012/08/31/9th-birthday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Princess Tea Party</title>
+      <link>http://www.lisablevins.com/2009/01/12/princess-tea-party/</link>
+      <pubDate>Mon, 12 Jan 2009 19:45:40 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2009/01/12/princess-tea-party/</guid>
+      <description>Last Saturday, my Grandma threw me and my friends a Princess Tea Party. My friend Zoee and her sisters showed up, all dressed as princesses. My sister Sarah and I were dressed up like princesses, too, of course. It was lot’s of fun.
+Here are some photos of it.</description>
+    </item>
+    
+  </channel>
+</rss>

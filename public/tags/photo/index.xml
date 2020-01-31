@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photo on Hello Friend</title>
+    <link>http://www.lisablevins.com/tags/photo/</link>
+    <description>Recent content in photo on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jul 2011 18:36:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lisablevins.com/tags/photo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Terry and Colin</title>
+      <link>http://www.lisablevins.com/2011/07/26/terry-and-colin/</link>
+      <pubDate>Tue, 26 Jul 2011 18:36:12 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2011/07/26/terry-and-colin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>At a Pizza Restaurant</title>
+      <link>http://www.lisablevins.com/2011/07/18/at-a-pizza-restaurant/</link>
+      <pubDate>Mon, 18 Jul 2011 21:09:25 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2011/07/18/at-a-pizza-restaurant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Breakfast Outside</title>
+      <link>http://www.lisablevins.com/2011/07/07/breakfast-outside/</link>
+      <pubDate>Thu, 07 Jul 2011 02:08:24 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2011/07/07/breakfast-outside/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

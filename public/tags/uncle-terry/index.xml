@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncle Terry on Hello Friend</title>
+    <link>http://www.lisablevins.com/tags/uncle-terry/</link>
+    <description>Recent content in Uncle Terry on Hello Friend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Jul 2011 18:36:12 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.lisablevins.com/tags/uncle-terry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Terry and Colin</title>
+      <link>http://www.lisablevins.com/2011/07/26/terry-and-colin/</link>
+      <pubDate>Tue, 26 Jul 2011 18:36:12 +0000</pubDate>
+      
+      <guid>http://www.lisablevins.com/2011/07/26/terry-and-colin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
