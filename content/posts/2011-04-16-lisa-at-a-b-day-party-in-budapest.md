@@ -15,19 +15,19 @@ tags:
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.lisablevins.com/uploads/2011/05/IMG_1228.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2011/05/IMG_1228-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2011/05/IMG_1228.jpg'><img width="150" height="150" src="/uploads/2011/05/IMG_1228-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.lisablevins.com/uploads/2011/05/IMG_1237.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2011/05/IMG_1237-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2011/05/IMG_1237.jpg'><img width="150" height="150" src="/uploads/2011/05/IMG_1237-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.lisablevins.com/uploads/2011/05/IMG_1239.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2011/05/IMG_1239-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2011/05/IMG_1239.jpg'><img width="150" height="150" src="/uploads/2011/05/IMG_1239-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://www.lisablevins.com/uploads/2011/05/IMG_1241.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2011/05/IMG_1241-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2011/05/IMG_1241.jpg'><img width="150" height="150" src="/uploads/2011/05/IMG_1241-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>
 

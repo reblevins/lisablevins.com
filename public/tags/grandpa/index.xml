@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Grandpa on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/grandpa/</link>
+    <link>/tags/grandpa/</link>
     <description>Recent content in Grandpa on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Jul 2011 21:09:25 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/grandpa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/grandpa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>At a Pizza Restaurant</title>
-      <link>http://www.lisablevins.com/2011/07/18/at-a-pizza-restaurant/</link>
+      <link>/2011/07/18/at-a-pizza-restaurant/</link>
       <pubDate>Mon, 18 Jul 2011 21:09:25 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2011/07/18/at-a-pizza-restaurant/</guid>
+      <guid>/2011/07/18/at-a-pizza-restaurant/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Breakfast Outside</title>
-      <link>http://www.lisablevins.com/2011/07/07/breakfast-outside/</link>
+      <link>/2011/07/07/breakfast-outside/</link>
       <pubDate>Thu, 07 Jul 2011 02:08:24 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2011/07/07/breakfast-outside/</guid>
+      <guid>/2011/07/07/breakfast-outside/</guid>
       <description></description>
     </item>
     

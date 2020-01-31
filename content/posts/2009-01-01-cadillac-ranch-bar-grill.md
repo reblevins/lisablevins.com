@@ -19,4 +19,4 @@ categories:
 
 Cadillac Ranch Bar & Grill
 
- [1]: http://www.lisablevins.com/wp-o-matic/cache/cceea_xMgN4OQMFi5zak73ZhSp2eWpo1_500.jpg
+ [1]: /wp-o-matic/cache/cceea_xMgN4OQMFi5zak73ZhSp2eWpo1_500.jpg

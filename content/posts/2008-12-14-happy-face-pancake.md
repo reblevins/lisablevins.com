@@ -21,4 +21,4 @@ tags:
 
 Happy Face Pancake
 
- [1]: http://www.lisablevins.com/wp-o-matic/cache/82aaa_xMgN4OQMFhbst9ir7cNGXJmZo1_500.jpg
+ [1]: /wp-o-matic/cache/82aaa_xMgN4OQMFhbst9ir7cNGXJmZo1_500.jpg

@@ -20,5 +20,5 @@ categories:
 The Adventures of Lisa and the Socks  
 (Click on the picture to download the video.)
 
-<a href="http://www.lisablevins.com/media/lisa_vlog_aug_22_2006_socks.mov" style="text-decoration: none;"><img style="margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 361px; height: 361px;" src="http://www.lisablevins.com/images/lisa_vlog_aug_22_2006.jpg" border="0" alt="" /><br /><small>Click here to download the movie.</small></a>  
+<a href="/media/lisa_vlog_aug_22_2006_socks.mov" style="text-decoration: none;"><img style="margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 361px; height: 361px;" src="/images/lisa_vlog_aug_22_2006.jpg" border="0" alt="" /><br /><small>Click here to download the movie.</small></a>  
 <small>(1:39 mins. 6.7MB)</small>

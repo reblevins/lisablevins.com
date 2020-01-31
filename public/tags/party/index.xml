@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>party on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/party/</link>
+    <link>/tags/party/</link>
     <description>Recent content in party on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Aug 2010 14:57:40 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/party/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/party/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lisa’s 7th B-day</title>
-      <link>http://www.lisablevins.com/2010/08/28/lisas-7th-b-day/</link>
+      <link>/2010/08/28/lisas-7th-b-day/</link>
       <pubDate>Sat, 28 Aug 2010 14:57:40 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2010/08/28/lisas-7th-b-day/</guid>
+      <guid>/2010/08/28/lisas-7th-b-day/</guid>
       <description>Lisa celebrated her 7th birthday on Wednesday with family and on Friday with 6 of her classmates.</description>
     </item>
     

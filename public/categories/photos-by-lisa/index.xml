@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Photos by Lisa on Hello Friend</title>
-    <link>http://www.lisablevins.com/categories/photos-by-lisa/</link>
+    <link>/categories/photos-by-lisa/</link>
     <description>Recent content in Photos by Lisa on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Jan 2009 19:33:20 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/categories/photos-by-lisa/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/photos-by-lisa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A New Camera</title>
-      <link>http://www.lisablevins.com/2009/01/12/a-new-camera/</link>
+      <link>/2009/01/12/a-new-camera/</link>
       <pubDate>Mon, 12 Jan 2009 19:33:20 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2009/01/12/a-new-camera/</guid>
+      <guid>/2009/01/12/a-new-camera/</guid>
       <description>I love taking pictures, so Mommy and Daddy decided to surprise me with my very own camera for Christmas. It’s a Kodak EasyShare C813 in case you’re interested. Here are just a few of the photos I’ve already taken with it.</description>
     </item>
     
     <item>
       <title>Whoville</title>
-      <link>http://www.lisablevins.com/2008/12/29/whoville/</link>
+      <link>/2008/12/29/whoville/</link>
       <pubDate>Mon, 29 Dec 2008 01:40:02 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/12/29/whoville/</guid>
+      <guid>/2008/12/29/whoville/</guid>
       <description>Lisa Blevins posted a photo:
 
 Whoville as drawn by Lisa</description>
@@ -33,10 +33,10 @@ Whoville as drawn by Lisa</description>
     
     <item>
       <title>Whoville</title>
-      <link>http://www.lisablevins.com/2008/12/28/whoville-2/</link>
+      <link>/2008/12/28/whoville-2/</link>
       <pubDate>Sun, 28 Dec 2008 17:03:24 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/12/28/whoville-2/</guid>
+      <guid>/2008/12/28/whoville-2/</guid>
       <description>Lisa Blevins posted a photo:
 
 Whoville as drawn by Lisa</description>
@@ -44,82 +44,82 @@ Whoville as drawn by Lisa</description>
     
     <item>
       <title>Self Portrait</title>
-      <link>http://www.lisablevins.com/2008/11/16/self-portrait-2/</link>
+      <link>/2008/11/16/self-portrait-2/</link>
       <pubDate>Sun, 16 Nov 2008 10:31:51 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/16/self-portrait-2/</guid>
+      <guid>/2008/11/16/self-portrait-2/</guid>
       <description>Lisa Blevins posted a photo:</description>
     </item>
     
     <item>
       <title>Book</title>
-      <link>http://www.lisablevins.com/2008/11/16/book-2/</link>
+      <link>/2008/11/16/book-2/</link>
       <pubDate>Sun, 16 Nov 2008 10:31:42 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/16/book-2/</guid>
+      <guid>/2008/11/16/book-2/</guid>
       <description>Lisa Blevins posted a photo:</description>
     </item>
     
     <item>
       <title>Messy Table</title>
-      <link>http://www.lisablevins.com/2008/11/16/messy-table-2/</link>
+      <link>/2008/11/16/messy-table-2/</link>
       <pubDate>Sun, 16 Nov 2008 10:31:29 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/16/messy-table-2/</guid>
+      <guid>/2008/11/16/messy-table-2/</guid>
       <description>Lisa Blevins posted a photo:</description>
     </item>
     
     <item>
       <title>Ponies</title>
-      <link>http://www.lisablevins.com/2008/11/16/ponies-2/</link>
+      <link>/2008/11/16/ponies-2/</link>
       <pubDate>Sun, 16 Nov 2008 10:31:22 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/16/ponies-2/</guid>
+      <guid>/2008/11/16/ponies-2/</guid>
       <description>Lisa Blevins posted a photo:</description>
     </item>
     
     <item>
       <title>Faucet</title>
-      <link>http://www.lisablevins.com/2008/11/16/faucet-2/</link>
+      <link>/2008/11/16/faucet-2/</link>
       <pubDate>Sun, 16 Nov 2008 10:31:12 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/16/faucet-2/</guid>
+      <guid>/2008/11/16/faucet-2/</guid>
       <description>Lisa Blevins posted a photo:</description>
     </item>
     
     <item>
       <title>Sister</title>
-      <link>http://www.lisablevins.com/2008/11/16/sister-2/</link>
+      <link>/2008/11/16/sister-2/</link>
       <pubDate>Sun, 16 Nov 2008 10:31:03 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/16/sister-2/</guid>
+      <guid>/2008/11/16/sister-2/</guid>
       <description>Lisa Blevins posted a photo:</description>
     </item>
     
     <item>
       <title>Still Life</title>
-      <link>http://www.lisablevins.com/2008/11/16/still-life-2/</link>
+      <link>/2008/11/16/still-life-2/</link>
       <pubDate>Sun, 16 Nov 2008 10:30:55 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/16/still-life-2/</guid>
+      <guid>/2008/11/16/still-life-2/</guid>
       <description>Lisa Blevins posted a photo:</description>
     </item>
     
     <item>
       <title>Animals</title>
-      <link>http://www.lisablevins.com/2008/11/16/animals-2/</link>
+      <link>/2008/11/16/animals-2/</link>
       <pubDate>Sun, 16 Nov 2008 10:30:47 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/16/animals-2/</guid>
+      <guid>/2008/11/16/animals-2/</guid>
       <description>Lisa Blevins posted a photo:</description>
     </item>
     
     <item>
       <title>Cheerio!!</title>
-      <link>http://www.lisablevins.com/2008/11/16/cheerio-2/</link>
+      <link>/2008/11/16/cheerio-2/</link>
       <pubDate>Sun, 16 Nov 2008 10:30:39 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/16/cheerio-2/</guid>
+      <guid>/2008/11/16/cheerio-2/</guid>
       <description>Lisa Blevins posted a photo:</description>
     </item>
     

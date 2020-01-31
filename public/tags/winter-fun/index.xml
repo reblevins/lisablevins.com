@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>winter fun on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/winter-fun/</link>
+    <link>/tags/winter-fun/</link>
     <description>Recent content in winter fun on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Dec 2010 20:40:24 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/winter-fun/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/winter-fun/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lisa goes ice-skating</title>
-      <link>http://www.lisablevins.com/2010/12/16/lisa-goes-ice-skating/</link>
+      <link>/2010/12/16/lisa-goes-ice-skating/</link>
       <pubDate>Thu, 16 Dec 2010 20:40:24 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2010/12/16/lisa-goes-ice-skating/</guid>
+      <guid>/2010/12/16/lisa-goes-ice-skating/</guid>
       <description>Lisa doesn’t ice-skate very often, only about once a year, but even so, she’s doing a pretty good job as you can see in this video of her ice-skating.</description>
     </item>
     

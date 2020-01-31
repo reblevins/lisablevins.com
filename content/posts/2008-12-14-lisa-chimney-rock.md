@@ -14,6 +14,6 @@ tags:
 ---
 We told Lisa that this was Chimney Rock and she wondered if Sinterklaas (Santa Claus) would also come down this chimney. 
 
-[<img src="http://www.lisablevins.com/uploads/2008/12/p-640-480-6a447f83-892e-4c7d-a517-0c13eecbf48e.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />][1]
+[<img src="/uploads/2008/12/p-640-480-6a447f83-892e-4c7d-a517-0c13eecbf48e.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />][1]
 
- [1]: http://www.lisablevins.com/uploads/2008/12/p-640-480-6a447f83-892e-4c7d-a517-0c13eecbf48e.jpeg
+ [1]: /uploads/2008/12/p-640-480-6a447f83-892e-4c7d-a517-0c13eecbf48e.jpeg

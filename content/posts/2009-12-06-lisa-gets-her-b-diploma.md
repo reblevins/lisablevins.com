@@ -17,18 +17,18 @@ Lisa did a great job swimming today and earned her &#8220;B&#8221; swimming dipl
   <figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.lisablevins.com/uploads/2009/12/100_1135.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2009/12/100_1135-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2009/12/100_1135.jpg'><img width="150" height="150" src="/uploads/2009/12/100_1135-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.lisablevins.com/uploads/2009/12/100_1136.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2009/12/100_1136-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2009/12/100_1136.jpg'><img width="150" height="150" src="/uploads/2009/12/100_1136-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.lisablevins.com/uploads/2009/12/100_1145.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2009/12/100_1145-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2009/12/100_1145.jpg'><img width="150" height="150" src="/uploads/2009/12/100_1145-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'>
 
   <div class='gallery-icon landscape'>
-    <a href='http://www.lisablevins.com/uploads/2009/12/100_1153.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2009/12/100_1153-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2009/12/100_1153.jpg'><img width="150" height="150" src="/uploads/2009/12/100_1153-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>

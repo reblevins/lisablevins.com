@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>holidays on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/holidays/</link>
+    <link>/tags/holidays/</link>
     <description>Recent content in holidays on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 30 Apr 2010 19:46:34 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/holidays/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/holidays/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Queen’s Day 2010</title>
-      <link>http://www.lisablevins.com/2010/04/30/queens-day-2010/</link>
+      <link>/2010/04/30/queens-day-2010/</link>
       <pubDate>Fri, 30 Apr 2010 19:46:34 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2010/04/30/queens-day-2010/</guid>
+      <guid>/2010/04/30/queens-day-2010/</guid>
       <description></description>
     </item>
     

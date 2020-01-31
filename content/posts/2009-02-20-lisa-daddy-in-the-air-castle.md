@@ -19,4 +19,4 @@ categories:
 
 Lisa & Daddy in the air castle
 
- [1]: http://www.lisablevins.com/wp-o-matic/cache/c0a58_xMgN4OQMFk6ax9msqgZNHE5Bo1_500.jpg
+ [1]: /wp-o-matic/cache/c0a58_xMgN4OQMFk6ax9msqgZNHE5Bo1_500.jpg

@@ -14,11 +14,11 @@ tags:
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='http://www.lisablevins.com/uploads/2011/05/IMG_0884.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2011/05/IMG_0884-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2011/05/IMG_0884.jpg'><img width="150" height="150" src="/uploads/2011/05/IMG_0884-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='http://www.lisablevins.com/uploads/2011/05/IMG_0890.jpg'><img width="150" height="150" src="http://www.lisablevins.com/uploads/2011/05/IMG_0890-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    <a href='/uploads/2011/05/IMG_0890.jpg'><img width="150" height="150" src="/uploads/2011/05/IMG_0890-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
   </div></figure>
 </div>
 

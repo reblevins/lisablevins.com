@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cold on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/cold/</link>
+    <link>/tags/cold/</link>
     <description>Recent content in cold on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 05 May 2010 19:46:35 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/cold/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/cold/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cold day at the beach</title>
-      <link>http://www.lisablevins.com/2010/05/05/cold-day-at-the-beach/</link>
+      <link>/2010/05/05/cold-day-at-the-beach/</link>
       <pubDate>Wed, 05 May 2010 19:46:35 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2010/05/05/cold-day-at-the-beach/</guid>
+      <guid>/2010/05/05/cold-day-at-the-beach/</guid>
       <description></description>
     </item>
     

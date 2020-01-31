@@ -29,7 +29,7 @@ She also used the past tense in Dutch the night before last, when I&#8217;m sure
 She loves to dance and sing. She sings her own songs she makes up, but she also sings, &#8220;Yes, Jesus loves me, yes Jesus Bible so!&#8221; Lisa is our little comedian and actress. She keeps us smiling and laughing with the funny things she says and all of her funny facial expressions.
 
 And last, but not least, we want to introduce Lisa&#8217;s very own Videoblog, also know as a vlog. Just right-click (command-click on the mac) on the picture below and choose to save the file (mac: Download Linked File).  
-[<img style="margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="http://www.lisablevins.com/images/lisa_vlog_feb_05_2006_eyebrows.jpg" border="0" alt="" />][2]
+[<img style="margin:0 0 10px 10px;cursor:pointer; cursor:hand;" src="/images/lisa_vlog_feb_05_2006_eyebrows.jpg" border="0" alt="" />][2]
 
  [1]: http://www.blevins.nl/photos/lisa/gallery/lisa-dancing-1.php
  [2]: http://www.archive.org/download/RodneyBlevinsLisavlog5Feb2006Eyebrows_0/lisa_vlog_feb_05_2006_eyebrows.mov

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lisa-sarah on Hello Friend</title>
-    <link>http://www.lisablevins.com/categories/lisa-sarah/</link>
+    <link>/categories/lisa-sarah/</link>
     <description>Recent content in lisa-sarah on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jan 2007 19:14:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/categories/lisa-sarah/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/lisa-sarah/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lisa and Sarah</title>
-      <link>http://www.lisablevins.com/2007/01/13/lisa-and-sarah/</link>
+      <link>/2007/01/13/lisa-and-sarah/</link>
       <pubDate>Sat, 13 Jan 2007 19:14:00 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2007/01/13/lisa-and-sarah/</guid>
+      <guid>/2007/01/13/lisa-and-sarah/</guid>
       <description>3 yrs / 4 months / 19 days old
 Here’s a cute little video of Lisa sitting next to Sarah. Lisa’s a proud big sister.</description>
     </item>

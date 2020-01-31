@@ -19,4 +19,4 @@ categories:
 
 **Whoville:** Whoville as drawn by Lisa
 
- [1]: http://www.lisablevins.com/wp-o-matic/cache/e59a1_xMgN4OQMFi1ied4gPYfUvAPgo1_500.jpg
+ [1]: /wp-o-matic/cache/e59a1_xMgN4OQMFi1ied4gPYfUvAPgo1_500.jpg

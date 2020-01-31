@@ -19,5 +19,5 @@ categories:
 The Adventures of Lisa and the Snowman  
 (Click on the picture to download the video.)
 
-<a href="http://www.lisablevins.com/media/lisa_vlog_mar_07_2006_snowman.mov" style="text-decoration: none;"><img style="margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 320px; height: 320px;" src="http://www.lisablevins.com/images/lisa_vlog_mar_07_2006_snowman.jpg" border="0" alt="" /><br /><small>Click here to download the movie.</small></a>  
+<a href="/media/lisa_vlog_mar_07_2006_snowman.mov" style="text-decoration: none;"><img style="margin:0 10px 10px 0;cursor:pointer; cursor:hand;width: 320px; height: 320px;" src="/images/lisa_vlog_mar_07_2006_snowman.jpg" border="0" alt="" /><br /><small>Click here to download the movie.</small></a>  
 <small>(1:10 mins. 5.4MB)</small>

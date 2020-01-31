@@ -15,7 +15,7 @@ categories:
 ---
 [Lisa Blevins][1] posted a photo:
 
-[<img src="http://www.lisablevins.com/wp-o-matic/cache/1736f723c3_3033750195-fb12e669f6-m.jpg" width="180" height="240" alt="Messy Table" />][2]
+[<img src="/wp-o-matic/cache/1736f723c3_3033750195-fb12e669f6-m.jpg" width="180" height="240" alt="Messy Table" />][2]
 
  [1]: https://www.flickr.com/people/lisablevins/
  [2]: https://www.flickr.com/photos/lisablevins/3033750195/ "Messy Table"

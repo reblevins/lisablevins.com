@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>zoo on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/zoo/</link>
+    <link>/tags/zoo/</link>
     <description>Recent content in zoo on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 May 2010 19:46:39 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/zoo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/zoo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Zoo – lollipops</title>
-      <link>http://www.lisablevins.com/2010/05/22/zoo-lollipops/</link>
+      <link>/2010/05/22/zoo-lollipops/</link>
       <pubDate>Sat, 22 May 2010 19:46:39 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2010/05/22/zoo-lollipops/</guid>
+      <guid>/2010/05/22/zoo-lollipops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zoo – Arizona?</title>
-      <link>http://www.lisablevins.com/2010/05/22/arizona/</link>
+      <link>/2010/05/22/arizona/</link>
       <pubDate>Sat, 22 May 2010 19:46:38 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2010/05/22/arizona/</guid>
+      <guid>/2010/05/22/arizona/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zoo – indoor waterfall</title>
-      <link>http://www.lisablevins.com/2010/05/22/zoo-indoor-waterfall/</link>
+      <link>/2010/05/22/zoo-indoor-waterfall/</link>
       <pubDate>Sat, 22 May 2010 19:46:37 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2010/05/22/zoo-indoor-waterfall/</guid>
+      <guid>/2010/05/22/zoo-indoor-waterfall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zoo – aquarium</title>
-      <link>http://www.lisablevins.com/2010/05/22/zoo-aquarium/</link>
+      <link>/2010/05/22/zoo-aquarium/</link>
       <pubDate>Sat, 22 May 2010 19:46:36 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2010/05/22/zoo-aquarium/</guid>
+      <guid>/2010/05/22/zoo-aquarium/</guid>
       <description></description>
     </item>
     

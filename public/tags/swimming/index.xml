@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>swimming on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/swimming/</link>
+    <link>/tags/swimming/</link>
     <description>Recent content in swimming on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Dec 2009 12:01:11 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/swimming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/swimming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Lisa gets her B diploma</title>
-      <link>http://www.lisablevins.com/2009/12/06/lisa-gets-her-b-diploma/</link>
+      <link>/2009/12/06/lisa-gets-her-b-diploma/</link>
       <pubDate>Sun, 06 Dec 2009 12:01:11 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2009/12/06/lisa-gets-her-b-diploma/</guid>
+      <guid>/2009/12/06/lisa-gets-her-b-diploma/</guid>
       <description>Lisa did a great job swimming today and earned her “B” swimming diploma.</description>
     </item>
     
     <item>
       <title>Lisa diving</title>
-      <link>http://www.lisablevins.com/2009/04/30/lisa-diving/</link>
+      <link>/2009/04/30/lisa-diving/</link>
       <pubDate>Thu, 30 Apr 2009 10:16:32 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2009/04/30/lisa-diving/</guid>
+      <guid>/2009/04/30/lisa-diving/</guid>
       <description>Lisa learned how to dive and jump through a hoop.</description>
     </item>
     

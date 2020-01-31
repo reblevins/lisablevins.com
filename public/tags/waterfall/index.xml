@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>waterfall on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/waterfall/</link>
+    <link>/tags/waterfall/</link>
     <description>Recent content in waterfall on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 22 May 2010 19:46:37 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/waterfall/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/waterfall/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Zoo – indoor waterfall</title>
-      <link>http://www.lisablevins.com/2010/05/22/zoo-indoor-waterfall/</link>
+      <link>/2010/05/22/zoo-indoor-waterfall/</link>
       <pubDate>Sat, 22 May 2010 19:46:37 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2010/05/22/zoo-indoor-waterfall/</guid>
+      <guid>/2010/05/22/zoo-indoor-waterfall/</guid>
       <description></description>
     </item>
     

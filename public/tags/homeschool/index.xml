@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>homeschool on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/homeschool/</link>
+    <link>/tags/homeschool/</link>
     <description>Recent content in homeschool on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 May 2011 10:25:03 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/homeschool/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/homeschool/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Homeschool in BP</title>
-      <link>http://www.lisablevins.com/2011/05/22/homeschool-in-bp/</link>
+      <link>/2011/05/22/homeschool-in-bp/</link>
       <pubDate>Sun, 22 May 2011 10:25:03 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2011/05/22/homeschool-in-bp/</guid>
+      <guid>/2011/05/22/homeschool-in-bp/</guid>
       <description></description>
     </item>
     

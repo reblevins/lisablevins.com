@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>leaves on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/leaves/</link>
+    <link>/tags/leaves/</link>
     <description>Recent content in leaves on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Nov 2009 14:42:50 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/leaves/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/leaves/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fall Fun</title>
-      <link>http://www.lisablevins.com/2009/11/08/fall-fun/</link>
+      <link>/2009/11/08/fall-fun/</link>
       <pubDate>Sun, 08 Nov 2009 14:42:50 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2009/11/08/fall-fun/</guid>
+      <guid>/2009/11/08/fall-fun/</guid>
       <description>Lisa and Sarah having fun in the leaves!</description>
     </item>
     

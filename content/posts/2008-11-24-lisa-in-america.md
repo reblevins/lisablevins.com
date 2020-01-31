@@ -21,4 +21,4 @@ tags:
 
 Lisa in America
 
- [1]: http://www.lisablevins.com/wp-o-matic/cache/680c8_xMgN4OQMFgtom3s2cMdxPYxuo1_500.jpg
+ [1]: /wp-o-matic/cache/680c8_xMgN4OQMFgtom3s2cMdxPYxuo1_500.jpg

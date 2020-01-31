@@ -19,4 +19,4 @@ categories:
 
 Lisa beating Mama in Wii bowling
 
- [1]: http://www.lisablevins.com/wp-o-matic/cache/cf5f4_xMgN4OQMFietibigC0ihU4ovo1_500.jpg
+ [1]: /wp-o-matic/cache/cf5f4_xMgN4OQMFietibigC0ihU4ovo1_500.jpg

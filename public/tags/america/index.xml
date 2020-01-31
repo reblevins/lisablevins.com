@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>America on Hello Friend</title>
-    <link>http://www.lisablevins.com/tags/america/</link>
+    <link>/tags/america/</link>
     <description>Recent content in America on Hello Friend</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 12 Jan 2009 19:33:20 +0000</lastBuildDate>
     
-	<atom:link href="http://www.lisablevins.com/tags/america/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/america/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A New Camera</title>
-      <link>http://www.lisablevins.com/2009/01/12/a-new-camera/</link>
+      <link>/2009/01/12/a-new-camera/</link>
       <pubDate>Mon, 12 Jan 2009 19:33:20 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2009/01/12/a-new-camera/</guid>
+      <guid>/2009/01/12/a-new-camera/</guid>
       <description>I love taking pictures, so Mommy and Daddy decided to surprise me with my very own camera for Christmas. It’s a Kodak EasyShare C813 in case you’re interested. Here are just a few of the photos I’ve already taken with it.</description>
     </item>
     
     <item>
       <title>Lisa &amp; Chimney Rock</title>
-      <link>http://www.lisablevins.com/2008/12/14/lisa-chimney-rock/</link>
+      <link>/2008/12/14/lisa-chimney-rock/</link>
       <pubDate>Sun, 14 Dec 2008 22:45:42 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/12/14/lisa-chimney-rock/</guid>
+      <guid>/2008/12/14/lisa-chimney-rock/</guid>
       <description>We told Lisa that this was Chimney Rock and she wondered if Sinterklaas (Santa Claus) would also come down this chimney.</description>
     </item>
     
     <item>
       <title>Happy Face Pancake</title>
-      <link>http://www.lisablevins.com/2008/12/14/happy-face-pancake/</link>
+      <link>/2008/12/14/happy-face-pancake/</link>
       <pubDate>Sun, 14 Dec 2008 02:48:52 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/12/14/happy-face-pancake/</guid>
+      <guid>/2008/12/14/happy-face-pancake/</guid>
       <description>Happy Face Pancake</description>
     </item>
     
     <item>
       <title>Lisa’s first week in America</title>
-      <link>http://www.lisablevins.com/2008/11/29/lisas-first-week-in-america/</link>
+      <link>/2008/11/29/lisas-first-week-in-america/</link>
       <pubDate>Sat, 29 Nov 2008 00:19:58 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/29/lisas-first-week-in-america/</guid>
+      <guid>/2008/11/29/lisas-first-week-in-america/</guid>
       <description>[</description>
     </item>
     
     <item>
       <title>Lisa in America</title>
-      <link>http://www.lisablevins.com/2008/11/24/lisa-in-america/</link>
+      <link>/2008/11/24/lisa-in-america/</link>
       <pubDate>Mon, 24 Nov 2008 02:48:50 +0000</pubDate>
       
-      <guid>http://www.lisablevins.com/2008/11/24/lisa-in-america/</guid>
+      <guid>/2008/11/24/lisa-in-america/</guid>
       <description>Lisa in America</description>
     </item>
     

@@ -19,4 +19,4 @@ categories:
 
 Blue tongue!
 
- [1]: http://www.lisablevins.com/wp-o-matic/cache/0e58b_xMgN4OQMFihcln6b0DwuHO6Ao1_500.jpg
+ [1]: /wp-o-matic/cache/0e58b_xMgN4OQMFihcln6b0DwuHO6Ao1_500.jpg

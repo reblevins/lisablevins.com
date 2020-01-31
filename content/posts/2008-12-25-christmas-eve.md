@@ -19,4 +19,4 @@ categories:
 
 Christmas Eve
 
- [1]: http://www.lisablevins.com/wp-o-matic/cache/d8426_xMgN4OQMFhwdka1iwzAvb2zeo1_500.jpg
+ [1]: /wp-o-matic/cache/d8426_xMgN4OQMFhwdka1iwzAvb2zeo1_500.jpg

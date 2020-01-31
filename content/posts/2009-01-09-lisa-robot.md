@@ -19,4 +19,4 @@ categories:
 
 Lisa Robot
 
- [1]: http://www.lisablevins.com/wp-o-matic/cache/ff574_xMgN4OQMFihmha93Qp0obsbdo1_500.jpg
+ [1]: /wp-o-matic/cache/ff574_xMgN4OQMFihmha93Qp0obsbdo1_500.jpg
